@@ -7,6 +7,10 @@ html {
 }
 body {
     font-size: 1.6rem;
+    background-color: #eee;
+}
+img {
+    width: 100%;
 }
 a {
     text-decoration: none;
